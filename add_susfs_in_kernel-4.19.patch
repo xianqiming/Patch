@@ -2,7 +2,7 @@ diff --git a/fs/proc/task_mmu.c b/fs/proc/task_mmu.c
 index b15a4719a8c8..fb46ebd7e767 100644
 --- a/fs/proc/task_mmu.c
 +++ b/fs/proc/task_mmu.c
-@@ -20,7 +20,9 @@
+@@ -20,7 +20,10 @@
  #include <linux/uaccess.h>
  #include <linux/pkeys.h>
  #include <linux/mm_inline.h>
